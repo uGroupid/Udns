@@ -1,2 +1,2 @@
-## uGroup DNS Privoder
+## uGroup DNS Privoder Developer
 ### Free DNS Https://udns.asia

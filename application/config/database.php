@@ -48,10 +48,10 @@
 $active_group = 'default';
 $active_record = TRUE;
 
-$db['default']['hostname'] = '192.168.1.221';
+$db['default']['hostname'] = '';
 $db['default']['username'] = 'root';
-$db['default']['password'] = '112233fF';
-$db['default']['database'] = 'dbispconfig';
+$db['default']['password'] = '';
+$db['default']['database'] = '';
 // $db['default']['database'] = 'dotvn_register';
 $db['default']['dbdriver'] = 'mysql';
 $db['default']['dbprefix'] = '';
